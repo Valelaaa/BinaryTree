@@ -1,0 +1,6 @@
+﻿  forest.cpp
+C:\Users\kosne\source\repos\BinaryTree\forest.cpp(57,14): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\kosne\source\repos\BinaryTree\forest.cpp(243,27): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\kosne\source\repos\BinaryTree\forest.cpp(447,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kosne\source\repos\BinaryTree\forest.cpp(75): warning C4715: CalcTree: значение возвращается не при всех путях выполнения
+  BinaryTree.vcxproj -> C:\Users\kosne\source\repos\BinaryTree\Debug\BinaryTree.exe
